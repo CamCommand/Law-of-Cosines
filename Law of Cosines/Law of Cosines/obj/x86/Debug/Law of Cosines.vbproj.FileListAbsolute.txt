@@ -1,0 +1,9 @@
+C:\Users\cameron.drummond\Desktop\Law of Cosines\Law of Cosines\bin\Debug\Law of Cosines.exe
+C:\Users\cameron.drummond\Desktop\Law of Cosines\Law of Cosines\bin\Debug\Law of Cosines.pdb
+C:\Users\cameron.drummond\Desktop\Law of Cosines\Law of Cosines\bin\Debug\Law of Cosines.xml
+C:\Users\cameron.drummond\Desktop\Law of Cosines\Law of Cosines\obj\x86\Debug\Law_of_Cosines.frm1.resources
+C:\Users\cameron.drummond\Desktop\Law of Cosines\Law of Cosines\obj\x86\Debug\Law_of_Cosines.Resources.resources
+C:\Users\cameron.drummond\Desktop\Law of Cosines\Law of Cosines\obj\x86\Debug\Law of Cosines.vbproj.GenerateResource.Cache
+C:\Users\cameron.drummond\Desktop\Law of Cosines\Law of Cosines\obj\x86\Debug\Law of Cosines.exe
+C:\Users\cameron.drummond\Desktop\Law of Cosines\Law of Cosines\obj\x86\Debug\Law of Cosines.xml
+C:\Users\cameron.drummond\Desktop\Law of Cosines\Law of Cosines\obj\x86\Debug\Law of Cosines.pdb
